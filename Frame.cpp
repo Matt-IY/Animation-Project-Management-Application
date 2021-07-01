@@ -1,15 +1,4 @@
 /****************************************************************************
-Matt Idone-York
-040912497
-Assignment 2: Animation in C++ using Container Classes and Overloaded Operators
-20W_CST8219 C++ Programming
-Lab section 302
-Professor's name
-Due March 14 2020
-Submitted March 14 2020
-Source and Header files: ass0.c
-
-Version number: 1.0
 Description: It is a console application that has an AnimationManager that holds a vector template of Animation objects each of which
 holds aforward_list template of Frames. Allows user to Add an Animation, Delete an Animation, Edit an Animation (which allows the user to add,
 delete, and edit frames within the animation) and View the Animation list.
